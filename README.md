@@ -6,7 +6,7 @@
 
 <a href="https://github.com/lang-uk/uk-gender-word-mapper/blob/main/gender_pairs_dictionary.csv" target="_blank">Словник</a>  складається з пар відповідників для чоловічого та жіночого родів. Для окремих слів також подано альтернативні варіанти фемінітивів (арбітр - арбітерка, арбітриня).
 
-Окрім цього, в окремому <a href="https://github.com/lang-uk/uk-gender-word-mapper/blob/main/common_gender_words_list.txt" target="_blank">файлі</a> зібрано слова спільного роду (злюка, жертва, тощо..)
+Окрім цього, в окремому <a href="https://github.com/lang-uk/uk-gender-word-mapper/blob/main/common_gender_words_list.txt" target="_blank">файлі</a> зібрано слова спільного роду (злюка, жертва, тощо).
 
 Оригінальний словник можна знайти <a href="https://gendergid.org.ua/a/" target="_blank">тут</a>.
 
